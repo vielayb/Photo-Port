@@ -26,7 +26,7 @@ describe('Nav component', () => {
     // Assert  
     const { getByLabelText } = render(<Nav />);
     expect(getByLabelText('camera')).toHaveTextContent('📸');
-    })
+    });
   }) 
 
   describe('links are visible', () => {
