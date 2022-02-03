@@ -1,5 +1,8 @@
 # Photo-Port with React
 ![Badge](https://img.shields.io/badge/License-MIT-blue)
+## Preview
+![screenshot](/assets/images/Oh-Snap.png)
+Live web page: https://vielayb.github.io/Photo-Port/
 ## Description
 This is a class project with a senerio about a friend needing a website for her photography business. Instead of using regualr HTML, CSS, and JavaScript, I appied my knowledge of React.js to complete this task.
 ## Learning Points
@@ -9,9 +12,6 @@ This is a class project with a senerio about a friend needing a website for her 
 * Pass props to child components
 * Use React Hooks to mangage state in functional components
 * Conditionally render components based on updates to state
-## Preview
-![screenshot](/assets/images/Oh-Snap.png)
-Live web page: https://vielayb.github.io/Photo-Port/
 ## Credits
 Vielay Bangphaxay
 ## Questions
