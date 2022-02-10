@@ -4,13 +4,13 @@
 ![screenshot](/assets/images/Oh-Snap.png)
 Live web page: https://vielayb.github.io/Photo-Port/
 ## Description
-This is a class project with a senerio about a friend needing a website for her photography business. Instead of using regualr HTML, CSS, and JavaScript, I appied my knowledge of React.js to complete this task.
+This is a class project with a scenario about a friend needing a website for her photography business. Instead of using regular HTML, CSS, and JavaScript, I appied my knowledge of React.js to complete this task.
 ## Learning Points
 * Build a single-page application with React
 * Create reusable components with a React application
 * Manage state within React components
 * Pass props to child components
-* Use React Hooks to mangage state in functional components
+* Use React Hooks to manage state in functional components
 * Conditionally render components based on updates to state
 ## Credits
 Vielay Bangphaxay
